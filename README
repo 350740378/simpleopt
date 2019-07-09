@@ -1,0 +1,9 @@
+README file for simpleopt
+downLoad simpleopt from:
+https://code.google.com/archive/p/simpleopt/downloads  
+
+test:
+int _tmain(int argc, TCHAR * argv[])
+argv can be:1.txt 2.txt *.cpp
+
+

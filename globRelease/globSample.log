@@ -1,0 +1,13 @@
+﻿生成启动时间为 2019/7/9 星期二 15:58:48。
+     1>项目“D:\ABNF\simpleopt\globSample.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W4 /WX- /O2 /Ob1 /Oy /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"globRelease\\" /Fd"globRelease\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt globSample.cpp
+         globSample.cpp
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"globRelease\globSample.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"globRelease\globSample.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"globRelease\globSample.lib" /MACHINE:X86 /SAFESEH globRelease\globSample.obj
+         globSample.vcxproj -> D:\ABNF\simpleopt\globRelease\globSample.exe
+     1>已完成生成项目“D:\ABNF\simpleopt\globSample.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.80
